@@ -1,0 +1,8 @@
+env/
+
+ebook/__pycache__
+
+ebookweb/__pycache__/
+
+ebookweb/migrations/__pycache__/
+db.sqlite3
